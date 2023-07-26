@@ -42,7 +42,7 @@ An opinionated list of color tools and resources for data visualization and user
 - [Picular](https://picular.co) Search for a key word and get results as a list of color swatches
 - [Wes Anderson Palettes](https://wesandersonpalettes.tumblr.com) Colors from Wes Anderson screen caps
 - [Shadow Palette Generator](https://www.joshwcomeau.com/shadow-palette/) Create a set of lush, realistic CSS shadows
-
+- [Data Visualization Style Guidelines](https://docs.google.com/spreadsheets/d/1F1gm5QLXh3USC8ZFx_M9TXYxmD-X5JLDD0oJATRTuIE/edit#gid=1679646668) Examples gathered by the Data Visualization Society
 
 ## Even More Awesome
 - [Awesome Dataviz Color](https://github.com/SuperMayo/awesome-dataviz-color)
