@@ -11,6 +11,7 @@ An opinionated list of color tools and resources for data visualization and user
 - [Color Picker for Data](http://tristen.ca/hcl-picker/) Interactive tool to choose six sequential colors.
 - [ColorBrewer](http://colorbrewer2.org) Ready-made color schemes for maps.
 - [Colorgorical](http://vrl.cs.brown.edu/color) Generate a color palette with strong perceptual differences to use with different categories of data.
+- [Coolors](https://coolors.co) Color palette generator with a [trending palettes list](https://coolors.co/palettes/trending)
 - [Data Color Picker](https://learnui.design/tools/data-color-picker.html) A palette generator that picks hues between color endpoints.
 - [Hayk Color Scale Generator](https://hihayk.github.io/scale/) Create and preview color scales.
 - [Leonardo for Data Viz](https://leonardocolor.io/scales.html) Create sequential, diverging, or qualitative scales
