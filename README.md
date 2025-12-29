@@ -13,6 +13,7 @@ An opinionated list of color tools and resources for data visualization and user
 - [Colorgorical](http://vrl.cs.brown.edu/color) Generate a color palette with strong perceptual differences to use with different categories of data.
 - [Coolors](https://coolors.co) Color palette generator with a [trending palettes list](https://coolors.co/palettes/trending)
 - [Data Color Picker](https://learnui.design/tools/data-color-picker.html) A palette generator that picks hues between color endpoints.
+- [DittoTones](https://meodai.github.io/dittoTones/) A mini-library to transform any color into a full color ramp.
 - [Hayk Color Scale Generator](https://hihayk.github.io/scale/) Create and preview color scales.
 - [Leonardo for Data Viz](https://leonardocolor.io/scales.html) Create sequential, diverging, or qualitative scales
 - [Open Color](https://yeun.github.io/open-color/) A a color scheme for UI design of 12 color-blind safe colors.
