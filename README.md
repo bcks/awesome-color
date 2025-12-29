@@ -41,6 +41,7 @@ An opinionated list of color tools and resources for data visualization and user
 
 
 ## Etc.
+- [https://github.com/meodai/color-names](https://github.com/meodai/color-names) A permissively licensed, curated collection of over 31,000 unique color names
 - [Data Visualization Style Guidelines](https://docs.google.com/spreadsheets/d/1F1gm5QLXh3USC8ZFx_M9TXYxmD-X5JLDD0oJATRTuIE/edit#gid=1679646668) Examples gathered by the Data Visualization Society
 - [Picular](https://picular.co) Search for a key word and get results as a list of color swatches
 - [Shadow Palette Generator](https://www.joshwcomeau.com/shadow-palette/) Create a set of lush, realistic CSS shadows
