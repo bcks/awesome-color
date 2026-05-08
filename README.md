@@ -20,6 +20,7 @@ An opinionated list of color tools and resources for data visualization and user
 - [OKPalette](https://okpalette.color.pizza) extracts beautiful color palettes from images.
 - [Paletton](http://paletton.com/) Web-based color palette picker.
 - [Poline](https://meodai.github.io/poline/) An esoteric color palette generation library
+- [TinyTools Color Palette Generator](https://tinytools-smoky.vercel.app/color-palette/) Free browser-based color palette generator. No signup, runs entirely client-side. Open source.
 - [Viz Palette](https://projects.susielu.com/viz-palette) Born out of a frustration with picking colors for data visualizations. This project is optimized for tweaking, copying, and pasting in and out of JavaScript.
 
 
